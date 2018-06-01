@@ -1,0 +1,2 @@
+textacy==0.6.1
+seaborn==0.8.1
